@@ -5,7 +5,7 @@ metadata:
   name: 4-demo-kustomize-minio-s3-bucket-bb-app
   namespace: flux-system
 spec:
-  interval: 1m0s
+  interval: 1m1s
   path: ./manifests
   prune: true
   sourceRef:
